@@ -24,7 +24,7 @@ The dashboard provides insights into revenue, occupancy, customer ratings, and b
 * Customer rating trends
 * Booking percentage by platform
 * Property performance metrics
-* Weekday vs Weekend occupancy
+* Weekday vs Weekend occupancy  
 
 ## Tools Used
 
@@ -32,6 +32,10 @@ The dashboard provides insights into revenue, occupancy, customer ratings, and b
 * Excel
 * DAX
 * Data Visualization
+
+## Dashboard Demo
+
+https://github.com/yourusername/repo-name/assets/video-file-link
 
 ## Author
 

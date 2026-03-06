@@ -35,7 +35,7 @@ The dashboard provides insights into revenue, occupancy, customer ratings, and b
 
 ## Dashboard Demo
 
-https://github.com/yourusername/repo-name/assets/video-file-link
+![Video](dashboard_demo.mp4.mp4)
 
 ## Author
 

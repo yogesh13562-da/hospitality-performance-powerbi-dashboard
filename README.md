@@ -7,8 +7,7 @@ The dashboard provides insights into revenue, occupancy, customer ratings, and b
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_preview.png.png
-)
+![Dashboard](Images/dashboard_preview.png.png)
 
 ## Key KPIs
 

@@ -33,10 +33,6 @@ The dashboard provides insights into revenue, occupancy, customer ratings, and b
 * DAX
 * Data Visualization
 
-## Dashboard Demo
-
-![Video](dashboard_demo.mp4.mp4)
-
 ## Author
 
 Yogesh 
